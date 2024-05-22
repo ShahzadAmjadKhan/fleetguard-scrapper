@@ -4,6 +4,7 @@
 3. It loads the url, get data (supplier and product information) and build Json & print it.
 4. Script uses Playwright library for navigation and data extraction
 5. Sample output would be
+```json
 [
       {
             "Manufacturer": "FLEETGUARD",
